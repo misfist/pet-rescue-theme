@@ -1,0 +1,27 @@
+<!-- 
+cmsms_package: Pet Rescue
+cmsms_version: 1.1.1
+-->
+<wpml-config>
+    <admin-texts>
+        <key name="cmsms_options_pet-rescue_error">
+            <key name="pet-rescue_error_sitemap_link" />
+        </key>
+		<key name="cmsms_options_pet-rescue_style_header">
+            <key name="pet-rescue_header_top_line_short_info" />
+            <key name="pet-rescue_header_add_cont_cust_html" />
+        </key>
+        <key name="cmsms_options_pet-rescue_style_footer">
+            <key name="pet-rescue_footer_html" />
+            <key name="pet-rescue_footer_copyright" />
+        </key>
+        <key name="cmsms_options_pet-rescue_single_project">
+            <key name="pet-rescue_portfolio_project_details_title" />
+        </key>
+        <key name="cmsms_options_pet-rescue_single_profile">
+            <key name="pet-rescue_profile_post_details_title" />
+        </key>
+    </admin-texts>
+</wpml-config>
+
+
